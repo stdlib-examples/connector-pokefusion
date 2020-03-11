@@ -1,5 +1,5 @@
 # Example: Pokefusion Connector API
-[<img src="https://deploy.stdlib.com/static/images/deploy.svg" width="192">](https://deploy.stdlib.com/)
+[<img src="https://deploy.stdlib.com/static/images/deploy.svg?" width="192">](https://deploy.stdlib.com/)
 
 Welcome to the Pokefusion Connector API Example! We'll use this repository as a basic template for creating
 new **Connector APIs**, or APIs that appear as a part of the [Build on Standard Library](https://build.stdlib.com/)
@@ -35,7 +35,7 @@ This sample API has one endpoint, `__main__.js` which accepts two parameters, `h
 
 You can deploy this API instantly using the **Deploy on Standard Library** button:
 
-[<img src="https://deploy.stdlib.com/static/images/deploy.svg" width="192">](https://deploy.stdlib.com/)
+[<img src="https://deploy.stdlib.com/static/images/deploy.svg?" width="192">](https://deploy.stdlib.com/)
 
 From here, you'll be brought to a screen that looks like this:
 
