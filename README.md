@@ -1,5 +1,5 @@
 # Example: Pokefusion Connector API
-[<img src="https://deploy.stdlib.com/static/images/deploy.svg?" width="192">](https://deploy.stdlib.com/)
+[<img src="https://open.autocode.com/static/images/open.svg?" width="192">](https://open.autocode.com/)
 
 Welcome to the Pokefusion Connector API Example! We'll use this repository as a basic template for creating
 new **Connector APIs**, or APIs that appear as a part of the [Build on Standard Library](https://build.stdlib.com/)
